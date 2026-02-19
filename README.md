@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Tanishka J Patil
+Created by Tanishka Jaydas Patil
